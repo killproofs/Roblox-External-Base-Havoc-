@@ -8,6 +8,6 @@
 
 <div align="center">
 
-![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.webp)
+![Fishstrap Showcase](https://cdn.discordapp.com/attachments/1356907490855358474/1381193617636458556/New_Project.png?ex=6846a04b&is=68454ecb&hm=7d42aa7900299744fbb26d7616567dc03f215e7b42c1214b23fd0515edf49a19&)
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
